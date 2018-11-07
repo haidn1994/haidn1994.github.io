@@ -1,5 +1,8 @@
 ---
+layout: post
 title: later와 sometime soon의 차이점
+date: 2018-11-07 12:50:00 -0800
+categories: English
 ---
 
 ## later를 남용하지 말자.
